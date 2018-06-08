@@ -1,0 +1,49 @@
+{
+  "_args": [
+    [
+      "git+ssh://git@github.com/jschmold/types_ddp.js.git",
+      "C:\\Users\\ImFlu\\Programming\\ddp test"
+    ]
+  ],
+  "_from": "git+ssh://git@github.com/jschmold/types_ddp.js.git",
+  "_id": "@types/ddp.js@git+ssh://git@github.com/jschmold/types_ddp.js.git#1c878610644cfa2a3d5a9ae259c771b5b9b8d404",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/@types/ddp.js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+ssh://git@github.com/jschmold/types_ddp.js.git",
+    "rawSpec": "git+ssh://git@github.com/jschmold/types_ddp.js.git",
+    "saveSpec": "git+ssh://git@github.com/jschmold/types_ddp.js.git",
+    "fetchSpec": "ssh://git@github.com/jschmold/types_ddp.js.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@github.com/jschmold/types_ddp.js.git#1c878610644cfa2a3d5a9ae259c771b5b9b8d404",
+  "_spec": "git+ssh://git@github.com/jschmold/types_ddp.js.git",
+  "_where": "C:\\Users\\ImFlu\\Programming\\ddp test",
+  "author": {
+    "name": "Jonathan Schmold",
+    "email": "me@jonathanschmold.ca"
+  },
+  "bugs": {
+    "url": "https://github.com/mondora/ddp.js/issues"
+  },
+  "dependencies": {
+    "wolfy87-eventemitter": "^5.2.3"
+  },
+  "description": "ddp javascript client types",
+  "homepage": "https://github.com/mondora/ddp.js",
+  "keywords": [],
+  "license": "MIT",
+  "main": "lib/ddp.js",
+  "name": "@types/ddp.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mondora/ddp.js.git"
+  },
+  "version": "2.2.1"
+}
